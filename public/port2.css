@@ -1,0 +1,35 @@
+a, a:visited {
+	color:black;
+}
+
+
+body {
+	/*background-image: url("bgnyc.jpg")*/
+	background: linear-gradient(yellow,red)	
+}
+
+#bio{
+	text-align: right;
+	font-size: 12em;
+}
+.bio{
+	border: 2px solid;
+	display: block;
+
+}
+
+.portrait{
+	display: block;
+	margin: 0 auto 10px;
+    max-width: 100%;
+    border: 2px solid black;
+    border-radius: 50%
+}
+.demos{
+	border: 2px solid;
+	text-justify: inter-word;
+}
+.title{
+	font-family: 'Bungee Shade', cursive;
+	font-size: 40px
+}
