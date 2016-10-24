@@ -4,8 +4,8 @@ a, a:visited {
 
 
 body {
-	/*background-image: url("bgnyc.jpg")*/
-	background: linear-gradient(yellow,red)	
+	background-image: url("bg2.jpg")
+	/*background: linear-gradient(yellow,red)	*/
 }
 
 #bio{
